@@ -6,6 +6,7 @@ Data Analysis: Analyze key metrics like total sales, profit margins, and custome
 Interactive Visualizations: Dynamic filters, drill-down capabilities, and charts to explore data in depth.
 Business Insights: Identify top-performing products, sales trends, and areas for improvement.
 User-Friendly Interface: Clean and organized design for easy data exploration.
+-< a href ="https://github.com/Harshavladimir/Vrinda_Store_Dashboard-Using-Tableau/blob/main/Screenshot%202025-01-26%20202728.jpg"> Dashboard </a>
 
 # Use Cases
 Performance tracking for Vrinda Store's business operations.
