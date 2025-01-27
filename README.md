@@ -8,6 +8,7 @@ Business Insights: Identify top-performing products, sales trends, and areas for
 User-Friendly Interface: Clean and organized design for easy data exploration.
 
 -Dashboard Overall <a href ="https://github.com/Harshavladimir/Vrinda_Store_Dashboard-Using-Tableau/blob/main/Screenshot%202025-01-26%20202728.jpg">View Dashboard </a>
+
 -Dashboard Statewise <a href="https://github.com/Harshavladimir/Vrinda_Store_Dashboard-Using-Tableau/blob/main/Screenshot%202025-01-21%20193503.png"> View Dashboard </a>
 
 # Use Cases
